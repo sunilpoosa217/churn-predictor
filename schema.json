@@ -1,0 +1,47 @@
+{
+  "type": "object",
+  "properties": {
+    "Geography": {
+      "type": "string"
+    },
+    "NumOfProducts": {
+      "type": "number"
+    },
+    "HasCrCard": {
+      "type": "boolean"
+    },
+    "Tenure": {
+      "type": "number"
+    },
+    "Gender": {
+      "type": "string"
+    },
+    "CreditScore": {
+      "type": "number"
+    },
+    "IsActiveMember": {
+      "type": "boolean"
+    },
+    "Balance": {
+      "type": "number"
+    },
+    "Age": {
+      "type": "number"
+    },
+    "EstimatedSalary": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "Geography",
+    "NumOfProducts",
+    "HasCrCard",
+    "Tenure",
+    "Gender",
+    "CreditScore",
+    "IsActiveMember",
+    "Balance",
+    "Age",
+    "EstimatedSalary"
+  ]
+}

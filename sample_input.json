@@ -1,0 +1,12 @@
+{
+  "Geography": "France",
+  "NumOfProducts": 2,
+  "HasCrCard": true,
+  "Tenure": 5,
+  "Gender": "Male",
+  "CreditScore": 650,
+  "IsActiveMember": true,
+  "Balance": 50000.0,
+  "Age": 35,
+  "EstimatedSalary": 60000.0
+}
